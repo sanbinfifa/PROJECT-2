@@ -1,0 +1,134 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+.heading{
+  background:rgb(58, 58, 105);
+   font-size: large;
+  text-align: center;
+  color: antiquewhite;
+  text-decoration: none;
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: gold;
+}
+
+
+.nav{
+
+  list-style: none;      
+  padding: 0;
+  background: yellow;
+  display: flex;        
+  margin: 0;
+  display: block;
+  padding: 14px 20px;    
+  color: rgb(163, 174, 46);         
+  text-decoration: none; 
+  background:rgb(26, 6, 55);
+background: #070638;
+  padding: 15px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(54, 26, 121, 0.2);
+   list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+
+}
+.menu{
+    text-decoration-line: underline;
+ background-color: rgb(31, 31, 69);
+}
+
+body{
+  background-image: url(the-illustration-graphic-consists-of-abstract-background-with-a-blue-gradient-dynamic-shapes-composition-eps10-perfect-for-presentation-background-website-landing-page-wallpaper-vector.jpg);
+background-size: cover;      /* Cover full screen */
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* Stays fixed while scrolling */
+  background-position: center
+}
+.tf{
+h3{color:gold;}
+p{color: rgb(255, 243, 20);
+
+  border: 1px solid #161874af;      
+  padding: 15px;                 
+  border-radius: 8px;            
+  background-color: #2b17df;     
+}
+}
+#hd{
+  text-align: center;
+  color: rgb(229, 229, 221);
+  text-decoration: rgb(54, 10, 174);
+  font-size: large;
+  text-shadow: 2px;
+}
+#b{
+  text-align: center;
+  color: rgba(197, 235, 29, 0.94);
+}
+.ucl-table {
+  width: 80%;
+  margin: 0 auto;
+  border-collapse: collapse;
+  background: #3105a1;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+/* Table head */
+.ucl-table thead {
+  background: blue;
+  color: white;
+}
+
+.ucl-table th,
+.ucl-table td {
+  padding: 15px 20px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Row hover effect */
+.ucl-table tbody tr:hover {
+  background: #f1f1f1;
+  transition: 0.3s;
+}
+#c{
+  color: goldenrod;
+  text-align: center;
+}
+* Table styling */
+.fixtures-table {
+  width: 100%;
+  margin: 0 auto;
+  border-collapse: collapse;
+  background: #fff;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  border-radius: 10px;
+  overflow: hidden;
+  text-align: center;
+}
+
+/* Table head */
+.fixtures-table thead {
+  background: #00695c;
+  color: white;
+}
+
+.fixtures-table th,
+.fixtures-table td {
+  padding: 15px 20px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Row hover effect */
+
+#d{
+  text-align: center;
+  color: darkgoldenrod;
+}
